@@ -1,0 +1,6 @@
+body.wp-admin img.size-full,
+body.wp-admin .wpb_vc_param_value.content.textarea_html img {
+  max-width: 50% !important;
+  width: 50% !important;
+  height: auto;
+}
